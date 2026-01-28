@@ -1,3 +1,0 @@
-org.springframework.test.context.ContextCustomizerFactory = gds.gsdg.gs.config.\
-    SqlTestContainersSpringContextCustomizerFactory,gds.gsdg.gs.config.\
-    KafkaTestContainersSpringContextCustomizerFactory
